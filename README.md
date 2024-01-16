@@ -1,2 +1,4 @@
 # Amazon_clone_website
-UI CONTENT 
+
+UI CONTENT
+add a js file
